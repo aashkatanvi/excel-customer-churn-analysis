@@ -38,7 +38,7 @@ This project analyzes customer churn data to identify patterns and drivers behin
 ---
 
 ## 📊 Dashboard Overview
-![Customer Churn Dashboard](churn_dashboard_full.png)
+![Customer Churn Dashboard](screenshots/churn_dashboard_full.png)
 
 
 ---
@@ -46,7 +46,7 @@ This project analyzes customer churn data to identify patterns and drivers behin
 ## 🔍 Key Insights
 
 ### 1️⃣ Churn by Subscription Type
-![Churn by Subscription Type](churn_by_subscription_type.png)
+![Churn by Subscription Type](screenshots/churn_by_subscription_type.png)
 
 - Premium users show the highest churn  
 - Basic plan has comparatively lower churn  
@@ -54,7 +54,7 @@ This project analyzes customer churn data to identify patterns and drivers behin
 ---
 
 ### 2️⃣ Churn by Tenure Category
-![Churn by Tenure Category](churn_by_tenure_category.png)
+![Churn by Tenure Category](screenshots/churn_by_tenure_category.png)
 
 - Long-term customers exhibit the highest churn  
 - Mid-term users are more stable  
@@ -62,7 +62,7 @@ This project analyzes customer churn data to identify patterns and drivers behin
 ---
 
 ### 3️⃣ Churn by Active Status
-screenshots/churn_by_active_status.png
+![Churn by Active Status](screenshots/churn_by_active_status.png)
 
 - Inactive users churn significantly more than active users  
 
