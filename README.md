@@ -38,7 +38,7 @@ This project analyzes customer churn data to identify patterns and drivers behin
 ---
 
 ## 📊 Dashboard Overview
-![Customer Churn Dashboard](Customer Churn full Dashboard.png)
+[Customer Churn Dashboard](Customer Churn full Dashboard.png)
 
 ---
 
