@@ -59,7 +59,7 @@ This project analyzes customer churn data to identify patterns and drivers behin
 ---
 
 ### 3️⃣ Churn by Active Status
-![Churn by Active Status](Churn by Active Status.png)
+Churn by Active Status.png
 - Inactive users churn significantly more than active users  
 
 ---
