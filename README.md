@@ -76,7 +76,7 @@ This project analyzes customer churn data to identify patterns and drivers behin
 
 ---
 
-## 🧠 Tools Used
+##  Tools Used
 - Microsoft Excel  
 - Pivot Tables  
 - Charts & Dashboards  
