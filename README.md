@@ -1,15 +1,15 @@
-# 📉 Customer Churn Analysis (Excel Project)
+#  Customer Churn Analysis (Excel Project)
 
 Excel-based customer churn analysis using dashboards and KPIs.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 This project analyzes customer churn data to identify patterns and drivers behind customer attrition. The objective is to understand which customer segments are more likely to churn and provide actionable insights to improve retention.
 
 ---
 
-## 📁 Dataset Summary
+##  Dataset Summary
 - Total customers: 305
 - Key dimensions analyzed:
   - Subscription type
@@ -19,7 +19,7 @@ This project analyzes customer churn data to identify patterns and drivers behin
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 - Removed duplicate records  
 - Standardized categorical values  
 - Checked and handled missing values  
@@ -28,7 +28,7 @@ This project analyzes customer churn data to identify patterns and drivers behin
 
 ---
 
-## 📊 Key Metrics
+##  Key Metrics
 - **Churn Rate:** 51.36%  
 - **Retention Rate:** 48.64%  
 - **Active Users:** 37.50%  
@@ -37,15 +37,15 @@ This project analyzes customer churn data to identify patterns and drivers behin
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 ![Customer Churn Dashboard](screenshots/churn_dashboard_full.png)
 
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
-### 1️⃣ Churn by Subscription Type
+### 1. Churn by Subscription Type
 ![Churn by Subscription Type](screenshots/churn_by_subscription_type.png)
 
 - Premium users show the highest churn  
@@ -53,7 +53,7 @@ This project analyzes customer churn data to identify patterns and drivers behin
 
 ---
 
-### 2️⃣ Churn by Tenure Category
+### 2. Churn by Tenure Category
 ![Churn by Tenure Category](screenshots/churn_by_tenure_category.png)
 
 - Long-term customers exhibit the highest churn  
@@ -61,14 +61,14 @@ This project analyzes customer churn data to identify patterns and drivers behin
 
 ---
 
-### 3️⃣ Churn by Active Status
+### 3. Churn by Active Status
 ![Churn by Active Status](screenshots/churn_by_active_status.png)
 
 - Inactive users churn significantly more than active users  
 
 ---
 
-## 🧭 Recommendations
+##  Recommendations
 - Revisit Premium pricing or value proposition  
 - Introduce loyalty programs for long-term users  
 - Proactively engage inactive customers  
