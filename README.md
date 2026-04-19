@@ -1,4 +1,4 @@
-#  Customer Churn Analysis (Excel Project)
+#  Customer Churn Analysis 
 
 Excel-based customer churn analysis using dashboards and KPIs.
 
